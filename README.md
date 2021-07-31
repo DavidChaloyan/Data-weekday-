@@ -26,4 +26,4 @@ This is the README file of WEEKDAY poject developt by Ashot Nikoghosyan
   
   
   
-  #THANK YOU FOR WATCHING MY PROGRAM.
+  #THANK YOU FOR WATCHING MY PROGRAM...
